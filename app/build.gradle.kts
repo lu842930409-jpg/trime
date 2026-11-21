@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: 2015 - 2025 Rime community
+ * SPDX-FileCopyrightText: 2015 - 2025 Rime community* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区* SPDX-FileCopyrightText: 2015 - 2025 Rime 社区
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -9,10 +9,10 @@ plugins {
     id("com.osfans.trime.data-checksums")
     id("com.osfans.trime.native-cache-hash")
     id("com.osfans.trime.opencc-data")
-    alias(libs.plugins.aboutlibraries)
-    alias(libs.plugins.kotlin.serialization)
-    alias(libs.plugins.kotlin.parcelize)
-    alias(libs.plugins.ksp)
+    alias(libs.plugins.aboutlibraries)别名(libs.plugins.aboutlibraries)别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）别名（libs.plugins.aboutlibraries）
+    alias(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名(libs.plugins.kotlin.serialization)别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）别名（libs.plugins.kotlin.serialization）
+    alias(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名(libs.plugins.kotlin.parcelize)别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）别名（libs.plugins.kotlin.parcelize）
+    alias(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名(libs.plugins.ksp)别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）别名（libs.plugins.ksp）
 }
 
 android {
@@ -21,11 +21,11 @@ android {
     buildToolsVersion = "37.0.0"
 
     defaultConfig {
-        applicationId = "com.osfans.trime"
+        applicationId = "com.osfans.trime.ayi"
         minSdk = 26
         targetSdk = 37
         versionCode = 20270101
-        versionName = "3.3.14"
+        versionName = "3.3.14"版本名称 = "3.3.14"
 
         multiDexEnabled = true
         buildConfigField("String", "BUILDER", "\"${project.builder}\"")
@@ -72,7 +72,7 @@ android {
             resValue("string", "trime_app_name", "@string/app_name_debug")
         }
         all {
-            // remove META-INF/version-control-info.textproto
+            // remove META-INF/version-control-info.textproto// 移除 META-INF/version-control-info.textproto
             @Suppress("UnstableApiUsage")
             vcsInfo.include = false
         }
